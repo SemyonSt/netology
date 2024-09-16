@@ -1,0 +1,72 @@
+.footer {
+    background-image: url(../footer.png);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    /* Установите высоту по вашему усмотрению */
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.subtract {
+    width: 560px;
+    height: 534px;
+    background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="560" height="534" viewBox="0 0 560 534" fill="none"><path fill-rule="evenodd" clip-rule="evenodd" d="M420 43C420 59.5685 433.431 73 450 73H510C537.614 73 560 95.3858 560 123V504C560 520.569 546.569 534 530 534H30C13.4314 534 0 520.569 0 504V30C0 13.4315 13.4315 0 30 0H408.306C415.284 0 420 8.02217 420 15V43Z" fill="%231F1F1F"/></svg>');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: start;
+}
+
+.footer_info_name {
+    color: #FFF;
+
+    font-family: Golos;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 30px;
+    /* 100% */
+    letter-spacing: -0.6px;
+    text-align: left;
+    width: 342px;
+    margin-left: 43px;
+    margin-top: 47px;
+
+
+}
+
+.footer_info_text_number {
+    color: #FFF;
+    font-family: Golos;
+    font-size: 70px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 50px; /* 71.429% */
+    letter-spacing: -1.4px;
+    text-align: left;
+    margin-left: 43px;
+    margin-bottom: 29px;
+
+
+}
+
+.footer_info_text_description {
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Golos;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px; /* 138.889% */
+    letter-spacing: -0.36px;
+    text-align: left;
+    width: 449px;
+    margin-left: 43px;
+    margin-bottom: 53px;
+
+}

@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "Golos";
+  src: url("./fonts/Golos-Text/golos-text_vf.woff");
+}
+
+
+body {
+  margin: 0;
+  padding: 0;
+
+
+  font-family: -apple-system, BlinkMacSystemFont, 'Golos,' 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

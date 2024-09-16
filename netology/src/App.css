@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+
+  background-color: #1F1F1F;
+  min-height: 1161px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* justify-content: center; */
+  /* font-size: calc(10px + 2vmin); */
+  color: white;
+  overflow: hidden;
+
+}
