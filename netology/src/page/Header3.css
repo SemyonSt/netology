@@ -1,0 +1,210 @@
+
+/* .App-header {
+    background-color: #1F1F1F;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    margin-top: 20px;
+    
+  }
+  
+  .App-link {
+    color: #61dafb;
+  }
+  
+  .lol {
+    position: relative;
+    width: 1161px;
+    height: 614px;
+  }
+  
+  .girl {
+    position: absolute;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+  }
+  
+  .header_info {
+    position: absolute;
+    top: 45%;
+    transform: translate(5%, -3%);
+    z-index: 2;
+    color: white;
+    text-align: center;
+  }
+  
+  .main_header {
+    width: 480px;
+    color: #FFF;
+  
+    font-family: Golos;
+    font-size: 65px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 65px;
+    letter-spacing: -1.3px;
+    text-align: left;  
+  }
+  
+  .main_subheader {
+    color: #FFF;
+    font-family: Golos;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 70px;
+    text-align: left;
+  }
+  
+  .header_guide {
+    position: absolute;
+    top: 43.5%;
+    right: 6%;
+    transform: translate(10%, -10%);
+  
+    z-index: 2;
+    color: white;
+    text-align: center;
+  
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  
+    width: 303px;
+    height: 257px;
+    flex-shrink: 0;
+    border-radius: 30px;
+    background: rgba(255, 253, 253, 0.10);
+    backdrop-filter: blur(6.849999904632568px);
+  
+  }
+  
+  .btn_guide {
+    display: flex;
+    width: 150px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 100px;
+    border: 1px solid #FFF;
+  
+    color: #FFF;
+  
+    font-family: Golos;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+  
+  
+  }
+  
+  .info_guide {
+    width: 263px;
+    height: 84px;
+    flex-shrink: 0;
+    color: #FFF;
+  
+    font-family: Golos;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    margin-left: 20px;
+    margin-bottom: 27px;
+  }
+  
+  .header_button {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 68px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    box-sizing: border-box;
+ 
+    z-index: 2;
+  }
+  
+  .header_button_menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 185px;
+    height: 68px;
+    border-radius: 100px;
+    background: #FFF;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .text {
+    color: #000;
+    font-family: Golos;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 70px;
+    text-align: center;
+  }
+  
+  .atom_star {
+    position: absolute;
+    z-index: 3;
+    top: 26%;
+    right: 7%;
+    transform: translate(10%, -10%);
+    width: 105px;
+    height: 105px;
+  }
+  
+  .atom_lightning {
+    position: absolute;
+    z-index: 3;
+    top: 30%;
+    right: 1%;
+    transform: translate(10%, -10%) rotate(6deg); 
+    width: 166px;
+    height: 166px;
+  }
+  
+  .download_btn {
+    position: absolute;
+    z-index: 2;
+    bottom: 2%;
+    left: 50%; 
+    transform: translateX(-50%);
+    display: flex;
+    width: 313px;
+    height: 68px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-shrink: 0;
+    border-radius: 100px;
+    background: #FFF;
+    color: #000;
+    box-sizing: border-box; 
+  
+  
+    text-align: center;
+    font-family: Golos;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 70px;
+  } */
